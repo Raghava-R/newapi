@@ -15,9 +15,9 @@ const dummyData = {
     },
     "24242": {
         "lease_details": {
-            "practice_name": "Central Texas Periodontics, P.A.",
-            "lessor": "DC Rebels Investment Properties, LLC",
-            "lessee": "Central Texas Periodontics, P.A.",
+          "1":  "practice_name - "Central Texas Periodontics, P.A.",
+           "2" : "lessor - "DC Rebels Investment Properties, LLC",
+           "3": "lessee "Central Texas Periodontics, P.A.",
             "premises_address": "4913 Moreland Dr. #201, #202, #203 Georgetown, Texas 78633",
             "premises_sq_ft": 2600,
             "term_of_base_lease": "5 years",
